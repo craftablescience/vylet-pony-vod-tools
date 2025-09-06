@@ -11,6 +11,7 @@
     "9": "#a0968d",
     "10_original": "#fd179e",
     "11_original": "#4700ff",
+    "12_original": "#346CC9",
     "2024_elf_stream": "#435849",
     "2025_neighem": "#755236",
     "2025_vlog_horse_friends": "#259b5c"
@@ -361,6 +362,18 @@
     },
     "2025-08-02": {
       "thumbnail": "11_original"
+    },
+    "2025-08-03": {
+      "thumbnail": "11_original"
+    },
+    "2025-08-19": {
+      "thumbnail": "11_original"
+    },
+    "2025-09-02": {
+      "thumbnail": "11_original"
+    },
+    "2025-09-06": {
+      "thumbnail": "12_original"
     }
   }
 }
