@@ -1,13 +1,17 @@
 import os
 import webvtt
 from common import DATA
+from subtitle_dl import download_subtitles
 
 
 if __name__ == "__main__":
+    if not os.path.isdir("../in/subtitles"):
+        download_subtitles()
+
     search = input("enter word or phrase: ")
 
-    for stream in [stream for stream in DATA["streams"].keys() if DATA["streams"][stream]["subs"]]:
-        path = f"../assets/subs/{stream}.en.vtt"
+    for stream in DATA["streams"].keys():
+        path = f"../in/subtitles/{stream}.en.vtt"
         if os.path.exists(path):
             for sentence in webvtt.read(path):
                 if search in sentence.text:

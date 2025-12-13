@@ -18,362 +18,816 @@
   },
   "streams": {
     "2021-09-24": {
-      "thumbnail": "1_original"
+      "thumbnail": "1_original",
+      "url_original": "https://www.youtube.com/watch?v=dRW_mBkdGl0",
+      "url_reupload": "https://www.youtube.com/watch?v=1G3YoR-MsVg"
     },
     "2021-12-23": {
-      "thumbnail": "1_original"
+      "thumbnail": "1_original",
+      "url_original": "https://www.youtube.com/watch?v=bewY_mHelkw",
+      "url_reupload": "https://www.youtube.com/watch?v=Dsaa55UxLuE"
     },
     "2022-04-24": {
-      "thumbnail": "1_original"
+      "thumbnail": "1_original",
+      "url_original": "https://www.youtube.com/watch?v=nw47vIbvQbk",
+      "url_reupload": "https://www.youtube.com/watch?v=dMmNlyUyW5Q"
     },
     "2022-09-05": {
-      "thumbnail": "2_original"
+      "thumbnail": "2_original",
+      "url_original": "https://www.youtube.com/watch?v=Gb-4hdfey5E",
+      "url_reupload": "https://www.youtube.com/watch?v=YiMfi3zlz60"
     },
     "2023-06-06": {
-      "thumbnail": "3_original"
+      "thumbnail": "3_original",
+      "url_original": "https://www.youtube.com/watch?v=swBZld41QgQ",
+      "url_reupload": "https://www.youtube.com/watch?v=KelOMr20PSY"
     },
     "2023-11-01": {
-      "thumbnail": "4_original"
+      "thumbnail": "4_original",
+      "url_original": "https://www.youtube.com/watch?v=vGUWlZP8eyM",
+      "url_reupload": "https://www.youtube.com/watch?v=BTDTbYqX1O4",
+      "availability": "reupload"
     },
     "2024-06-06": {
-      "thumbnail": "4_original"
+      "thumbnail": "4_original",
+      "url_original": "https://www.youtube.com/watch?v=SvTjUF6dDt8",
+      "url_reupload": "https://www.youtube.com/watch?v=aJxdLAMLsV0"
     },
     "2024-07-04": {
-      "thumbnail": "4_original"
+      "thumbnail": "4_original",
+      "url_original": "https://www.youtube.com/watch?v=PoC5NCbAocQ",
+      "url_reupload": "https://www.youtube.com/watch?v=pw8-WPrvkjI"
     },
     "2024-07-17": {
-      "thumbnail": "5_original"
+      "thumbnail": "5_original",
+      "url_original": "https://www.youtube.com/watch?v=GwP2V-KD4D0",
+      "url_reupload": "https://www.youtube.com/watch?v=kVtLgTyKxSY"
     },
     "2024-07-20": {
-      "thumbnail": "5_original"
+      "thumbnail": "5_original",
+      "url_original": "https://www.youtube.com/watch?v=jwC5hdrLKp0",
+      "url_reupload": "https://www.youtube.com/watch?v=WwMAz65zmsc"
     },
     "2024-07-26": {
-      "thumbnail": "5_original"
+      "thumbnail": "5_original",
+      "url_original": "https://www.youtube.com/watch?v=FZaoe48fgAA",
+      "url_reupload": "https://www.youtube.com/watch?v=W97bAyT52BM"
     },
     "2024-09-26": {
-      "thumbnail": "6_original"
+      "thumbnail": "6_original",
+      "url_original": "https://www.youtube.com/watch?v=zWKsItcTrTQ",
+      "url_reupload": "https://www.youtube.com/watch?v=1GZfXFhEifI"
     },
     "2024-10-03": {
-      "thumbnail": "8"
+      "thumbnail": "8",
+      "url_original": "",
+      "url_reupload": "https://www.youtube.com/watch?v=u9ahGI6H2Rc",
+      "availability": "reupload"
     },
     "2024-10-07": {
-      "thumbnail": "7"
+      "thumbnail": "7",
+      "url_original": "https://www.youtube.com/watch?v=ihBcE_PIrRk",
+      "url_reupload": "https://www.youtube.com/watch?v=BRbSXlAclk0"
     },
     "2024-10-23": {
-      "thumbnail": "8"
+      "thumbnail": "8",
+      "url_original": "https://www.youtube.com/watch?v=TE0Wwp_L9kk",
+      "url_reupload": "https://www.youtube.com/watch?v=f9XKAr7T1qY"
     },
     "2024-10-26": {
-      "thumbnail": "8"
+      "thumbnail": "8",
+      "url_original": "https://www.youtube.com/watch?v=HCKoOL45fLQ",
+      "url_reupload": "https://www.youtube.com/watch?v=jj80lt0_S74"
     },
     "2024-10-29": {
-      "thumbnail": "8"
+      "thumbnail": "8",
+      "url_original": "",
+      "url_reupload": "https://www.youtube.com/watch?v=k2CimUL4Z2Q",
+      "availability": "reupload"
     },
     "2024-11-01": {
-      "thumbnail": "8"
+      "thumbnail": "8",
+      "url_original": "https://www.youtube.com/watch?v=EZcetBWe5ys",
+      "url_reupload": "https://www.youtube.com/watch?v=0XwtwS-0ehQ"
     },
     "2024-11-02": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=2sGPYz8YRr8",
+      "url_reupload": "https://www.youtube.com/watch?v=41-WvcnVIm4"
     },
     "2024-11-04": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=01gTXThWAuE",
+      "url_reupload": "https://www.youtube.com/watch?v=_NZWbCTFyas"
     },
     "2024-11-07": {
       "thumbnail": "9",
-      "lost_media": true
+      "url_original": "",
+      "url_reupload": "",
+      "availability": null
     },
     "2024-11-12": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=teW5O-5u3SE",
+      "url_reupload": "https://www.youtube.com/watch?v=4eAtYA7UNEs"
     },
     "2024-11-16": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=4Rt9hac_2CA",
+      "url_reupload": "https://www.youtube.com/watch?v=-scFq4WhBJg"
     },
     "2024-11-18": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=CNDcMklQ6LE",
+      "url_reupload": "https://www.youtube.com/watch?v=qNbwwllg1Pg"
     },
     "2024-11-22": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=_rBsKWmhyCo",
+      "url_reupload": "https://www.youtube.com/watch?v=cglLqsZlAig"
     },
     "2024-11-23": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=XpfE0A6ec4c",
+      "url_reupload": "https://www.youtube.com/watch?v=zP9Q73j6g3o"
     },
     "2024-11-25": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=fZ-sc1AWHPY",
+      "url_reupload": "https://www.youtube.com/watch?v=-qgHvAIBVP4"
     },
     "2024-11-27": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=1ka56oR5AeU",
+      "url_reupload": "https://www.youtube.com/watch?v=4q_mkPzWFto"
     },
     "2024-11-29": {
-      "thumbnail": "9"
+      "thumbnail": "9",
+      "url_original": "https://www.youtube.com/watch?v=19EWMW3ESeg",
+      "url_reupload": "https://www.youtube.com/watch?v=npHWPEs1Bfw",
+      "availability": "reupload"
     },
     "2024-12-01 (1)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=a7nSuBBfgcc",
+      "url_reupload": "https://www.youtube.com/watch?v=Nux2KWS1LyI",
+      "availability": "reupload"
     },
     "2024-12-01 (2)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=L7mS6eLcI-I",
+      "url_reupload": "https://www.youtube.com/watch?v=JMx7BU0rt9Y",
+      "availability": "reupload"
     },
     "2024-12-05 (1)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=4q7ggBjwfAo",
+      "url_reupload": "https://www.youtube.com/watch?v=i8BpP2MXN-0",
+      "availability": "reupload"
     },
     "2024-12-05 (2)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=M8RE7xKboWE",
+      "url_reupload": "https://www.youtube.com/watch?v=cdU-49UPuls",
+      "availability": "reupload"
     },
     "2024-12-07": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=nZX7plWJAhc",
+      "url_reupload": "https://www.youtube.com/watch?v=cQvHyAZZvVI",
+      "availability": "reupload"
     },
     "2024-12-14": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=bOY07pGPqZU",
+      "url_reupload": "https://www.youtube.com/watch?v=4-BddD_KH5s",
+      "availability": "reupload"
     },
     "2024-12-17": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "",
+      "url_reupload": "https://www.youtube.com/watch?v=R03AGw1ujTY",
+      "availability": "reupload"
     },
     "2024-12-22": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "",
+      "url_reupload": "https://www.youtube.com/watch?v=EAXfdQ2VbjI",
+      "availability": "reupload"
     },
-    "2024-12-27 (W/ Chat)": {
-      "thumbnail": "2024_elf_stream"
+    "2024-12-27 (With Chat)": {
+      "thumbnail": "2024_elf_stream",
+      "url_original": "",
+      "url_reupload": "https://www.youtube.com/watch?v=81Hx6sAjyKI",
+      "availability": null
     },
     "2024-12-27 (Original)": {
-      "thumbnail": "2024_elf_stream"
+      "thumbnail": "2024_elf_stream",
+      "url_original": "",
+      "url_reupload": "https://www.youtube.com/watch?v=mJj3gR4utKU",
+      "availability": null
     },
     "2024-12-29": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=VfsgDKjJ9N0",
+      "url_reupload": "https://www.youtube.com/watch?v=b8kAFy5bpUc"
     },
     "2025-01-04": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=ZujV3XdnIzI",
+      "url_reupload": "https://www.youtube.com/watch?v=YM3RgO-rJa0"
     },
     "2025-01-10": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=NnIROQKgdLo",
+      "url_reupload": "https://www.youtube.com/watch?v=2v589tNiNm4"
     },
     "2025-01-12": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=0fVJCAuG_vs",
+      "url_reupload": "https://www.youtube.com/watch?v=iwjGDMMsb6c"
     },
     "2025-01-14": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=zttmnJr01ks",
+      "url_reupload": "https://www.youtube.com/watch?v=Gj6Z1RIROrw"
     },
     "2025-01-17": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=P_EwTQKHrnw",
+      "url_reupload": "https://www.youtube.com/watch?v=p3OR7NF_Dbg"
     },
     "2025-01-20": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=JEbsV-g6jvw",
+      "url_reupload": "https://www.youtube.com/watch?v=jOCrX2FJwkE"
     },
     "2025-01-23": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=qsCE18vlDJM",
+      "url_reupload": "https://www.youtube.com/watch?v=_TR3hB9l09E"
     },
     "2025-01-24": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=KtGDNfq6zso",
+      "url_reupload": "https://www.youtube.com/watch?v=iGCuUJjeA5A"
     },
     "2025-01-27": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=vJtQeFZ-SG0",
+      "url_reupload": "https://www.youtube.com/watch?v=VgiSo9m-snI"
     },
     "2025-02-01": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=kgcYykfZOs8",
+      "url_reupload": "https://www.youtube.com/watch?v=94o5SfDny1w"
     },
     "2025-02-08": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=KlWJb0VnqdA",
+      "url_reupload": "https://www.youtube.com/watch?v=XqD8qmJqMps"
     },
     "2025-02-10": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=ATJwCza3yzQ",
+      "url_reupload": "https://www.youtube.com/watch?v=448l0QF98pI"
     },
     "2025-02-13 (1)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=VLNBO2IJL9s",
+      "url_reupload": "https://www.youtube.com/watch?v=YPlHvbFB0Yo"
     },
     "2025-02-13 (2)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=V-vRR8-Zm48",
+      "url_reupload": "https://www.youtube.com/watch?v=mZVQl_gE9js"
     },
     "2025-02-15 (1)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=0GEbnECS31g",
+      "url_reupload": "https://www.youtube.com/watch?v=e30_QIpE8t4"
     },
     "2025-02-15 (2)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=3lUJE8g-HG4",
+      "url_reupload": "https://www.youtube.com/watch?v=eNwo7ZJiogQ"
     },
     "2025-02-18 (1)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=NKOL3rjR_j8",
+      "url_reupload": "https://www.youtube.com/watch?v=PzvsimxTLcw"
     },
     "2025-02-18 (2)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=lhdNQ_k6g8Y",
+      "url_reupload": "https://www.youtube.com/watch?v=Pz40uG-Wn0I"
     },
     "2025-02-26": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=oasaa9cZii8",
+      "url_reupload": "https://www.youtube.com/watch?v=-NHQ_oKj0BI"
     },
     "2025-03-03": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=l-V80py7ZA0",
+      "url_reupload": "https://www.youtube.com/watch?v=iBft9IHMJls"
     },
     "2025-03-08 (1)": {
       "thumbnail": "10_original",
-      "lost_media": true
+      "url_original": "https://www.youtube.com/watch?v=jrmUkQmLUfU",
+      "url_reupload": "",
+      "availability": null
     },
     "2025-03-08 (2)": {
       "thumbnail": "10_original",
-      "lost_media": true
+      "url_original": "https://www.youtube.com/watch?v=hZH3yNZ9fzw",
+      "url_reupload": "",
+      "availability": null
     },
     "2025-03-12": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=Xpl4l5Vc9-w",
+      "url_reupload": "https://www.youtube.com/watch?v=usMkf6hi7lU"
     },
     "2025-03-14": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=Rd-KSXoDhiU",
+      "url_reupload": "https://www.youtube.com/watch?v=2p3thHIAfNU"
     },
     "2025-03-16 (1)": {
       "thumbnail": "10_original",
-      "lost_media": true
+      "url_original": "",
+      "url_reupload": "",
+      "availability": null
     },
     "2025-03-16 (2)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=-JWRg9AcMD4",
+      "url_reupload": "https://www.youtube.com/watch?v=q8rqCIf1vDw"
     },
     "2025-03-16 (3)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=7fYJCtEZ3Pk",
+      "url_reupload": "https://www.youtube.com/watch?v=TRobibj6Lh0"
     },
     "2025-03-18": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=ahPDlHBgCNc",
+      "url_reupload": "https://www.youtube.com/watch?v=dlXyhq00UfM"
     },
     "2025-03-21": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=kc0Yrrps7WA",
+      "url_reupload": "https://www.youtube.com/watch?v=1s2sL0pPU5U"
     },
     "2025-03-23": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=Fe-qs395i2s",
+      "url_reupload": "https://www.youtube.com/watch?v=M7WyKd_pFB4"
     },
     "2025-03-26": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=K6sgH3ncAOM",
+      "url_reupload": "https://www.youtube.com/watch?v=dATrpBSP-BA",
+      "availability": "reupload"
     },
     "2025-04-07 (Original)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=hy1OdCj1Iy4",
+      "url_reupload": "https://www.youtube.com/watch?v=EMMUzaB2hJI",
+      "availability": null
     },
     "2025-04-07 (Censored)": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=hy1OdCj1Iy4",
+      "url_reupload": "https://www.youtube.com/watch?v=_iJpsDzQqLY",
+      "availability": "reupload"
     },
     "2025-04-08": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=yvUMNZVJVTg",
+      "url_reupload": "https://www.youtube.com/watch?v=g1ud0NF0vmw"
     },
     "2025-04-20": {
-      "thumbnail": "2025_neighem"
+      "thumbnail": "2025_neighem",
+      "url_original": "https://www.youtube.com/watch?v=g28Ynzzg8g4",
+      "url_reupload": "",
+      "availability": "original"
     },
     "2025-04-26": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=MMs7CtdNra0",
+      "url_reupload": "https://www.youtube.com/watch?v=WihZc0MFE44"
     },
     "2025-04-28": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=FKIXN6uePeI",
+      "url_reupload": "https://www.youtube.com/watch?v=bXzxydN5lKo"
     },
     "2025-05-03 03H": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=qRMx7uj9l38",
+      "url_reupload": "https://www.youtube.com/watch?v=EQMEK31g2pg"
     },
     "2025-05-03 20H": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=12aqOZC1YM4",
+      "url_reupload": "https://www.youtube.com/watch?v=CKDd2HXR-r0"
     },
     "2025-05-12": {
-      "thumbnail": "2025_vlog_horse_friends"
+      "thumbnail": "2025_vlog_horse_friends",
+      "url_original": "https://www.youtube.com/watch?v=KbN5fEm-yjM",
+      "url_reupload": "https://www.youtube.com/watch?v=r2AObRj9MjI"
     },
     "2025-05-13": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=SrGkEYVz_NI",
+      "url_reupload": "https://www.youtube.com/watch?v=WXz8WKhHPZc"
     },
     "2025-05-18": {
-      "thumbnail": "10_original"
+      "thumbnail": "10_original",
+      "url_original": "https://www.youtube.com/watch?v=043sHPiPpE8",
+      "url_reupload": "https://www.youtube.com/watch?v=bjeImXby2ds"
     },
     "2025-05-21 (1)": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=cZd5I3czVt4",
+      "url_reupload": "https://www.youtube.com/watch?v=mEx3o3AkWtc"
     },
     "2025-05-21 (2)": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=MxXUo24zx3U",
+      "url_reupload": "https://www.youtube.com/watch?v=SWdoMA2T1zg"
     },
     "2025-05-31": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=4thE3aekoBM",
+      "url_reupload": "https://www.youtube.com/watch?v=9MBS_Fh7ULQ"
     },
     "2025-06-04": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=opbe0_PByzU",
+      "url_reupload": "https://www.youtube.com/watch?v=FbAuWYrBWs8"
     },
     "2025-06-05": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=_GK9rNhspb0",
+      "url_reupload": "https://www.youtube.com/watch?v=scX00hlzrRM"
     },
     "2025-06-26": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=tnigp-oE7VY",
+      "url_reupload": "https://www.youtube.com/watch?v=kThlAlmY8Xk"
     },
     "2025-06-27": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=ptooa8nAdb4",
+      "url_reupload": "https://www.youtube.com/watch?v=Iaupu3oO3ak"
     },
     "2025-06-28": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=eNQD9w5lFDM",
+      "url_reupload": "https://www.youtube.com/watch?v=VJmvUS2kKF4"
     },
     "2025-06-29": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=DZnBPX4aK4g",
+      "url_reupload": "https://www.youtube.com/watch?v=4LICOLLkRuc"
     },
     "2025-07-01": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=nDAYlFO01Ts",
+      "url_reupload": "https://www.youtube.com/watch?v=Zbu-ry7iCs8"
     },
     "2025-07-03": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=IWop9HY9N2E",
+      "url_reupload": "https://www.youtube.com/watch?v=0FcHOZRTW6g"
     },
     "2025-07-09": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=CSfganD6ssQ",
+      "url_reupload": "https://www.youtube.com/watch?v=X9wwCwkDt9c"
     },
     "2025-07-10": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=UDWLpW215Z0",
+      "url_reupload": "https://www.youtube.com/watch?v=mF--oh_86Dk"
     },
     "2025-07-11 (1)": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=cc1jxt-qO60",
+      "url_reupload": "https://www.youtube.com/watch?v=qIpCneSvjbs"
     },
     "2025-07-11 (2)": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=-hV98LbiSvQ",
+      "url_reupload": "https://www.youtube.com/watch?v=ISLDA1lbjLw"
     },
     "2025-07-13": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=ZvPqiPpD854",
+      "url_reupload": "https://www.youtube.com/watch?v=hBlUOfAt7Vk"
     },
     "2025-07-14 (Original)": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=80jBmwtf05A",
+      "url_reupload": "https://www.youtube.com/watch?v=KkHuACg2jsY",
+      "availability": null
     },
     "2025-07-14 (Censored)": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=80jBmwtf05A",
+      "url_reupload": "https://www.youtube.com/watch?v=BkMi00CWvlU",
+      "availability": "reupload"
     },
     "2025-07-15": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=BuIIkMoDur0",
+      "url_reupload": "https://www.youtube.com/watch?v=HGI1ze_b_VQ"
     },
     "2025-07-16": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=uuJs0TI0-oY",
+      "url_reupload": "https://www.youtube.com/watch?v=g_lRg4xQNPI"
     },
     "2025-07-17": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=Otahtv111vk",
+      "url_reupload": "https://www.youtube.com/watch?v=f6DQ0TKaDZw"
     },
     "2025-07-18": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=pV0MooA1q3U",
+      "url_reupload": "https://www.youtube.com/watch?v=0K9G5wQKEQ8"
     },
     "2025-07-19": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=a9vKzOVerCo",
+      "url_reupload": "https://www.youtube.com/watch?v=DaUZ28RoBow"
     },
     "2025-07-20": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=ZBxZRnsLTXk",
+      "url_reupload": "https://www.youtube.com/watch?v=jI1BKv2LDDM"
     },
     "2025-07-21": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=JdUiv__-usk",
+      "url_reupload": "https://www.youtube.com/watch?v=vU24KDnFENw"
     },
     "2025-07-23": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=xMLnWSXWqVU",
+      "url_reupload": "https://www.youtube.com/watch?v=GKfW-x4wfyw"
     },
     "2025-07-25": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=mNIoQeSeLvQ",
+      "url_reupload": "https://www.youtube.com/watch?v=36cv1dHgtaU"
     },
     "2025-07-28": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=uSCInWtftXw",
+      "url_reupload": "https://www.youtube.com/watch?v=u0dChLHF0go"
     },
     "2025-07-29": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=s1I8gYzTT24",
+      "url_reupload": "https://www.youtube.com/watch?v=MdMsLxASnnk"
     },
     "2025-07-31": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=XOHeo12M6Js",
+      "url_reupload": "https://www.youtube.com/watch?v=7qwjVhowbcA"
     },
     "2025-08-01": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=GwwBDwP1fMs",
+      "url_reupload": "https://www.youtube.com/watch?v=DIx0pmZkTb8"
     },
     "2025-08-02": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=DLN_9B8xYVA",
+      "url_reupload": "https://www.youtube.com/watch?v=fhS4v6tp-I4"
     },
     "2025-08-03": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=t0r_sqJnqJ0",
+      "url_reupload": "https://www.youtube.com/watch?v=eBKNsmrO2ng"
     },
     "2025-08-19": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=-BQwHLDhLU0",
+      "url_reupload": "https://www.youtube.com/watch?v=1SyGwf5Xht0"
     },
     "2025-09-02": {
-      "thumbnail": "11_original"
+      "thumbnail": "11_original",
+      "url_original": "https://www.youtube.com/watch?v=kKNXTPPVjKw",
+      "url_reupload": "https://www.youtube.com/watch?v=_CNqWC0YJas"
     },
     "2025-09-06": {
-      "thumbnail": "12_original"
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=2iaq2HSdrRc",
+      "url_reupload": "https://www.youtube.com/watch?v=2bfp39SHHyA"
+    },
+    "2025-09-11": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=JUFaASzEt48",
+      "url_reupload": "https://www.youtube.com/watch?v=KYJk7LpIm-w"
+    },
+    "2025-09-13": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=4Q7EXeRMp_Q",
+      "url_reupload": "https://www.youtube.com/watch?v=7TanMtNp1Us"
+    },
+    "2025-09-16": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=G1TfmUjAoCo",
+      "url_reupload": "https://www.youtube.com/watch?v=4MHVk8x3_Lk"
+    },
+    "2025-09-24": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=AH5cMHbq_LA",
+      "url_reupload": "https://www.youtube.com/watch?v=vGm2_xjUvyU"
+    },
+    "2025-09-28": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=CnUV9JzasFQ",
+      "url_reupload": "https://www.youtube.com/watch?v=Bw0aYSt8iMw"
+    },
+    "2025-10-03 (1)": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=q08za0Y5xg4",
+      "url_reupload": "https://www.youtube.com/watch?v=Bi5c1NdsHGE"
+    },
+    "2025-10-03 (2)": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=4EtYf58Xdp4",
+      "url_reupload": "https://www.youtube.com/watch?v=KtN7lD_4L0M"
+    },
+    "2025-10-05": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=3EJmAi9w1XI",
+      "url_reupload": "https://www.youtube.com/watch?v=T6n0MsiDthQ"
+    },
+    "2025-10-06": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=OaibRXVdikg",
+      "url_reupload": "https://www.youtube.com/watch?v=7UgT3JbkSc8"
+    },
+    "2025-10-08": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=d9uQP_pgExA",
+      "url_reupload": "https://www.youtube.com/watch?v=494mSfDy4aU"
+    },
+    "2025-10-09": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=rjPvImbCg7Y",
+      "url_reupload": "https://www.youtube.com/watch?v=Cf6vhTsCbSM"
+    },
+    "2025-10-11": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=LEv8nljvUqg",
+      "url_reupload": "https://www.youtube.com/watch?v=5AsQnBonOyo"
+    },
+    "2025-10-13": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=RIedze2j8ic",
+      "url_reupload": "https://www.youtube.com/watch?v=gTNPVR1VD9A"
+    },
+    "2025-10-15": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=jXwuDAvHngw",
+      "url_reupload": "https://www.youtube.com/watch?v=1mfPFM_DrbM"
+    },
+    "2025-10-17 02H": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=TH4JH_8fSVE",
+      "url_reupload": "https://www.youtube.com/watch?v=6tqWP5ejxOQ"
+    },
+    "2025-10-17 18H": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=TPr1t-cgiSE",
+      "url_reupload": "https://www.youtube.com/watch?v=GrLxwsGUo0w"
+    },
+    "2025-10-20": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=WUc9DW_5llo",
+      "url_reupload": "https://www.youtube.com/watch?v=x2grheV31u0"
+    },
+    "2025-10-22": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=NsXVi8aIfoY",
+      "url_reupload": "https://www.youtube.com/watch?v=-My9JoBbWqc"
+    },
+    "2025-10-23 (1)": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=J-ZYVissSHI",
+      "url_reupload": "https://www.youtube.com/watch?v=pnaCj8KLVYA"
+    },
+    "2025-10-23 (2)": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=pAngpS_SIHo",
+      "url_reupload": "https://www.youtube.com/watch?v=Dq4vDEMYtrM"
+    },
+    "2025-10-25": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=CMv8F_5YZZk",
+      "url_reupload": "https://www.youtube.com/watch?v=0WATlxkZ9H8"
+    },
+    "2025-10-28": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=a_nxx9irQBg",
+      "url_reupload": "https://www.youtube.com/watch?v=LR1OiMpKsX8"
+    },
+    "2025-11-02 02H": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=uodoMdAZs4A",
+      "url_reupload": "https://www.youtube.com/watch?v=j6zrvmPbrXI"
+    },
+    "2025-11-02 18H (1S)": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=yVL5iMlTz5A",
+      "url_reupload": "https://www.youtube.com/watch?v=AbbABmD6c0g"
+    },
+    "2025-11-02 18H (2S)": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=yVL5iMlTz5A",
+      "url_reupload": "https://www.youtube.com/watch?v=Q-ghLcgTGGc",
+      "availability": "reupload"
+    },
+    "2025-11-07": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=bZzDpO_u49U",
+      "url_reupload": "https://www.youtube.com/watch?v=OJOULdzxv-Y"
+    },
+    "2025-11-11": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=DaJ5SoHcGf0",
+      "url_reupload": "",
+      "availability": null
+    },
+    "2025-11-13": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=Q3ZFhHcEky4",
+      "url_reupload": "https://www.youtube.com/watch?v=dgY8HURyRos"
+    },
+    "2025-11-14": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=jKcZfa8RVbQ",
+      "url_reupload": "https://www.youtube.com/watch?v=i2wZ30iNsKE",
+      "availability": "reupload"
+    },
+    "2025-11-16": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=_8XdRitmRVE",
+      "url_reupload": "https://www.youtube.com/watch?v=oJXBae0vDAc"
+    },
+    "2025-11-18": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=js0Cqb0AXO8",
+      "url_reupload": "https://www.youtube.com/watch?v=D_MNaPniSQ4"
+    },
+    "2025-11-21": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=h_gOhV6_-cc",
+      "url_reupload": "https://www.youtube.com/watch?v=hlOiy9P8KDc"
+    },
+    "2025-11-23 (1)": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=ns6oqiDb3Vk",
+      "url_reupload": "https://www.youtube.com/watch?v=PHoFmVssO1M"
+    },
+    "2025-11-23 (2)": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=6DUS_aPql0M",
+      "url_reupload": "https://www.youtube.com/watch?v=Qme_heXf13c"
+    },
+    "2025-11-29": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=57W7iBAfwNc",
+      "url_reupload": "https://www.youtube.com/watch?v=zkbf_1I5jdQ"
+    },
+    "2025-12-06": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=1eNDtzg4mCs",
+      "url_reupload": "https://www.youtube.com/watch?v=X0NPE8lW9X8"
+    },
+    "2025-12-08": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=Fce1PlaXoBs",
+      "url_reupload": "https://www.youtube.com/watch?v=jhMd78-4C1A"
+    },
+    "2025-12-10": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=WEgmSWv_YOg",
+      "url_reupload": "https://www.youtube.com/watch?v=3eiz92v3UOM"
+    },
+    "2025-12-12": {
+      "thumbnail": "12_original",
+      "url_original": "https://www.youtube.com/watch?v=ZHHtllSm6YI",
+      "url_reupload": "https://www.youtube.com/watch?v=m83IcdbMMgc"
     }
   }
 }

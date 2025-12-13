@@ -1,6 +1,6 @@
 import os
 from PIL import Image, ImageDraw, ImageFont
-from common import DATA
+from common import DATA, stream_to_filename
 
 
 BOX_OFFSET = 64
@@ -41,9 +41,10 @@ def draw_text_in_box(i: Image, dr: ImageDraw, d: str, f: ImageFont, bottom: bool
 
 if __name__ == "__main__":
     os.makedirs("../out/thumbs", exist_ok=True)
+
     for stream_name, stream_data in DATA["streams"].items():
         input_path = f"../assets/thumbs/{stream_data["thumbnail"]}.jpg"
-        output_path = f"../out/thumbs/{stream_name.replace('/', '_')}.jpg"
+        output_path = f"../out/thumbs/{stream_to_filename(stream_name)}.jpg"
         if os.path.exists(output_path):
             continue
 
