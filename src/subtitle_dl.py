@@ -89,11 +89,11 @@ def download_live_chat_for(stream: str) -> bool:
             os.remove(output_csv)
             return False
 
-        os.makedirs("../out/live_chat", exist_ok=True)
+    os.makedirs("../out/live_chat", exist_ok=True)
 
-        output_ytt = f"../out/live_chat/{stream_to_filename(stream)}.ytt"
-        if not os.path.isfile(output_ytt):
-            return os.system(f"../ext/subchat/build/subtitles_generator -c ../assets/live_chat/config.ini -i \"{output_csv}\" -o \"{output_ytt}\" -u sec") == 0
+    output_ytt = f"../out/live_chat/{stream_to_filename(stream)}.ytt"
+    if not os.path.isfile(output_ytt):
+        return os.system(f"../ext/subchat/build/subtitles_generator -c ../assets/live_chat/config.ini -i \"{output_csv}\" -o \"{output_ytt}\" -u sec") == 0
 
     return True
 
