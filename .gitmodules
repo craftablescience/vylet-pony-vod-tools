@@ -1,9 +1,3 @@
 [submodule "ext/subchat"]
 	path = ext/subchat
 	url = https://github.com/kam1k4dze/subchat
-[submodule "ext/--force"]
-	path = ext/--force
-	url = https://github.com/Indigo128/chat-downloader
-[submodule "ext/chat-downloader"]
-	path = ext/chat-downloader
-	url = https://github.com/Indigo128/chat-downloader
