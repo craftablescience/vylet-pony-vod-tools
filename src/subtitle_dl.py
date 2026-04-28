@@ -33,6 +33,8 @@ def download_subtitles_for(stream: str, reupload: bool = False) -> bool:
                 ydl.download([url])
             if os.path.isfile(f"{output_stem}.en-orig.vtt"):
                 os.remove(f"{output_stem}.en-orig.vtt")
+            if os.path.isfile(f"{output_stem}.en-en.vtt"):
+                os.remove(f"{output_stem}.en-en.vtt")
             if not reupload and not os.path.isfile(f"{output_stem}.en.vtt"):
                 return download_subtitles_for(stream, True)
         except Exception as e:
